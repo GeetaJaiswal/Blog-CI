@@ -1,0 +1,19 @@
+	.pagination{
+		/*margin-left: 350px;*/
+		margin-top:50px;
+	}
+
+	.pagination a{
+		font-size:13px;
+		color:#1569C7;
+		border: 1px solid #1569C7;
+		padding: 10px 10px;
+	}
+
+	.active a{
+		background:#1569C7;
+	}
+
+	li.active {
+		color:#FFFFFF;
+	}
